@@ -20,6 +20,7 @@ Resources that can be backed up
 * Explicity specify the resources to backup and restore
 * Add more storage options
 * Generic implementation
+* Tests
 
 
  
